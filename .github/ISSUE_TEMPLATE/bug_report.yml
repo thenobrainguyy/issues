@@ -24,7 +24,6 @@ body:
         - Launcher
         - Shop
         - Backend
-        - GameClient
     validations:
       required: true
   - type: dropdown
